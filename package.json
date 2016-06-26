@@ -1,0 +1,29 @@
+{
+    "author": "Project Toast",
+    "dependencies": {},
+    "keywords": [],
+    "name": "breathe",
+    "pebble": {
+        "capabilities": [
+            "health"
+        ],
+        "displayName": "Breathe",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "14894009-892b-44cd-9430-08ed118ba2ea",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "0.1.0"
+}
